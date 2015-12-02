@@ -1,3 +1,6 @@
+**DEPRECATED**: the main repo is now at [https://github.com/nuxeo-sandbox/nuxeo-palette](https://github.com/nuxeo-sandbox/nuxeo-palette)
+
+
 nuxeo-palette
 ===========================
 
